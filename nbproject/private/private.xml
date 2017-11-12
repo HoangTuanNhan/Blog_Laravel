@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>resources/views/products/fields.blade.php</url>
+            <bookmark id="1">
+                <name/>
+                <line>25</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/var/www/html/blog/app/Http/Controllers/CategoryController.php</file>
+            <file>file:/var/www/html/blog/app/Http/Controllers/API/CategoryAPIController.php</file>
+            <file>file:/var/www/html/blog/resources/views/products/table.blade.php</file>
+            <file>file:/var/www/html/blog/resources/views/products/create.blade.php</file>
+            <file>file:/var/www/html/blog/resources/views/categories/edit.blade.php</file>
+            <file>file:/var/www/html/blog/routes/web.php</file>
+            <file>file:/var/www/html/blog/resources/views/products/fields.blade.php</file>
+            <file>file:/var/www/html/blog/database/migrations/2017_11_07_135057_create_products_table.php</file>
+            <file>file:/var/www/html/blog/resources/views/categories/index.blade.php</file>
+            <file>file:/var/www/html/blog/resources/views/categories/fields.blade.php</file>
+            <file>file:/var/www/html/blog/resources/views/products/index.blade.php</file>
+            <file>file:/var/www/html/blog/app/Http/Controllers/ProductController.php</file>
+            <file>file:/var/www/html/blog/app/Models/Product.php</file>
+            <file>file:/var/www/html/blog/database/migrations/2017_11_07_112406_create_categories_table.php</file>
+            <file>file:/var/www/html/blog/resources/views/users/create.blade.php</file>
+            <file>file:/var/www/html/blog/resources/views/categories/create.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
